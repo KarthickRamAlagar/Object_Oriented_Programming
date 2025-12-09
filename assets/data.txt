@@ -1,0 +1,43 @@
+{
+    users:[
+        KC001{
+            name:"RamAlagar",
+            contact:9360600425,
+            email: "karthickramalagar@gmail.com",
+            userId:KC001,
+            orders:[
+                [productName:"Laptop", actualPrice:50000,discountedPrice:48000,quantity:1]
+                [productName:"MobilePhone", actualPrice:30000,discountedPrice:28000,quantity:2]
+            ]   
+        },
+         KC002{
+            name:"Karthickeyan R",
+            contact:9360600425,
+            email: "karthickramalagar@gmail.com",
+            userId:KC002,
+            orders:[
+                [productName:"Laptop", actualPrice:50000,discountedPrice:48000,quantity:1]
+                [productName:"MobilePhone", actualPrice:30000,discountedPrice:28000,quantity:2]
+            ]
+        }
+    ]
+}
+
+
+Machine Coding Round 
+1.Responsive NavBar
+2.Image Slider
+3.Login Form / SignIn Form
+4.Accordian
+5.Card with Grid Layout/Flex Layout
+6.Paginat
+
+Full Recapion
+7.Infite-Scroll
+8.Side By Side Layout 
+9.DropDown with Child DropDown
+10.Inline Scrolling Table 
+
+1. Home Page -> Redux for Users ,Grid Layout, Image Carousel , Login/Sign Up Forms , Responsive Navbar , Pagination , Infinte Scrolling
+2. Product-Detail Page -> Side By Side Grid Layout ,  Product Card Carousel with Automatic Scrolling 
+3. Invoice Page -> Header , User-Info Section , Table of Products , Coopen Code Generator Section , Total & Discount Price Section , Tap To Button and Add Products Button , Terms and Services Section , Footer
