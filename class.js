@@ -1,7 +1,7 @@
 // CLASS
 //  A class is a blueprint
 //  Defines properties (data) + methods (actions)
-//  sed to create multiple objects of same type
+//  set to create multiple objects of same type
 
 class BankAccount {
   
